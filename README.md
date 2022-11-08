@@ -18,15 +18,15 @@
 
 # Código Fuente
 
-[Codigo NodeMCU ArduinoIDE]()
+[Codigo NodeMCU ArduinoIDE](https://github.com/Darcrai221/NodeMCU-RFID-System/blob/main/NodeMCU%20Code/RFID_NodeMCU.ino)
 
-[Diagrama conexion simple (Solo leds)]()
+[Diagrama conexion simple (Solo leds)](https://github.com/Darcrai221/NodeMCU-RFID-System/blob/main/NodeMCU%20Code/RFIDnodeMCU.PNG)
 
-[Código Interfaz Web (PHP)]()
+[Código Interfaz Web (PHP)](https://github.com/Darcrai221/NodeMCU-RFID-System/tree/main/systemLogs)
 
-[Flujos Node-Red]()
+[Flujos Node-Red](https://github.com/Darcrai221/NodeMCU-RFID-System/tree/main/Node%20Red%20Flows)
 
-[Evidencias]()
+[Evidencias](https://github.com/Darcrai221/NodeMCU-RFID-System/tree/main/Evidencias)
 
 
 # Autores
